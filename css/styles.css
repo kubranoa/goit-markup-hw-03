@@ -9,7 +9,7 @@ body {
   background-color: #ffffff;
 }
 
-.logo-1 {
+a .logo-1 {
   font-family: "Raleway";
   font-weight: 700;
   font-size: 18px;
@@ -19,7 +19,7 @@ body {
   text-decoration: none;
   color: #4d5ae5;
 }
-span {
+span .logo-2 {
   font-family: "Raleway";
   color: #2e2f42;
 }
@@ -28,7 +28,7 @@ span {
   list-style-type: none;
 }
 
-.nav-links a {
+a .nav-links {
   font-family: "Roboto";
   color: #2e2f42;
   font-weight: 500;
@@ -74,19 +74,33 @@ span {
 .address-links:visited {
   text-decoration: none;
 }
+.section-1 {
+  background-color: #2e2f42;
+}
 .box {
   background-color: #2e2f42;
 }
-.head-title {
-  font-size: 36px;
-  color: white;
+h1 .head-title {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  color: #ffffff;
+  letter-spacing: 0.02em;
 }
-button {
-  color: white;
+button .buton-btn {
+  color: #ffffff;
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
   background-color: #4d5ae5;
   cursor: pointer;
 }
-button:hover {
+button .buton-btn:hover {
+  background-color: #404bbf;
+}
+button .buton-btn:focus {
   background-color: #404bbf;
 }
 .footer {
