@@ -73,7 +73,7 @@ body {
 .address-links:visited {
   text-decoration: none;
 }
-.section-1 {
+.section-bir {
   background-color: #2e2f42;
 }
 h1 {
@@ -112,6 +112,9 @@ p {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+section-3 {
+  background-color: #f4f4fd;
 }
 .footer {
   background-color: #2e2f42;
