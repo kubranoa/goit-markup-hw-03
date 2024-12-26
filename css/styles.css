@@ -9,7 +9,7 @@ body {
   background-color: #ffffff;
 }
 
-a .logo-1 {
+.logo-1 {
   font-family: "Raleway";
   font-weight: 700;
   font-size: 18px;
@@ -19,16 +19,15 @@ a .logo-1 {
   text-decoration: none;
   color: #4d5ae5;
 }
-span .logo-2 {
+.logo-2 {
   font-family: "Raleway";
   color: #2e2f42;
 }
 .nav-ul li {
-  text-decoration: none;
   list-style-type: none;
 }
 
-a .nav-links {
+.nav-links {
   font-family: "Roboto";
   color: #2e2f42;
   font-weight: 500;
@@ -80,14 +79,14 @@ a .nav-links {
 .box {
   background-color: #2e2f42;
 }
-h1 .head-title {
+.head-title {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
   color: #ffffff;
   letter-spacing: 0.02em;
 }
-button .buton-btn {
+.buton-btn {
   color: #ffffff;
   font-family: "Roboto";
   font-weight: 500;
@@ -97,10 +96,10 @@ button .buton-btn {
   background-color: #4d5ae5;
   cursor: pointer;
 }
-button .buton-btn:hover {
+.buton-btn:hover {
   background-color: #404bbf;
 }
-button .buton-btn:focus {
+.buton-btn:focus {
   background-color: #404bbf;
 }
 .footer {
