@@ -100,14 +100,14 @@ button:hover {
 button:focus {
   background-color: #404bbf;
 }
-.sectioniki-liste h3 {
+h3 {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.liste-p p {
+p {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -115,6 +115,30 @@ button:focus {
 }
 section-3 {
   background-color: #f4f4fd;
+}
+h2 {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+.team-member {
+  background-color: #ffffff;
+}
+.team-info {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+team-info2 {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 .footer {
   background-color: #2e2f42;
