@@ -113,7 +113,7 @@ p {
   letter-spacing: 0.02em;
   color: #434455;
 }
-section-3 {
+.section-uc {
   background-color: #f4f4fd;
 }
 h2 {
@@ -134,7 +134,7 @@ h2 {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-team-info2 {
+.team-info2 {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
