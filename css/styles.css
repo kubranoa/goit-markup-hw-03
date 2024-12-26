@@ -69,6 +69,7 @@ body {
 .address-links:hover,
 .address-links:focus {
   text-decoration: underline;
+  color: #404bbf;
 }
 .address-links:visited {
   text-decoration: none;
