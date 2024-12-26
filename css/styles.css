@@ -76,17 +76,15 @@ body {
 .section-1 {
   background-color: #2e2f42;
 }
-.box {
-  background-color: #2e2f42;
-}
-.head-title {
+h1 {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
   color: #ffffff;
   letter-spacing: 0.02em;
 }
-.buton-btn {
+
+button {
   color: #ffffff;
   font-family: "Roboto";
   font-weight: 500;
@@ -96,10 +94,10 @@ body {
   background-color: #4d5ae5;
   cursor: pointer;
 }
-.buton-btn:hover {
+button:hover {
   background-color: #404bbf;
 }
-.buton-btn:focus {
+button:focus {
   background-color: #404bbf;
 }
 .footer {
