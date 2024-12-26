@@ -9,7 +9,7 @@ body {
   background-color: #ffffff;
 }
 
-.logo-1 {
+.logo-bir {
   font-family: "Raleway";
   font-weight: 700;
   font-size: 18px;
@@ -19,7 +19,7 @@ body {
   text-decoration: none;
   color: #4d5ae5;
 }
-.logo-2 {
+.logo-iki {
   font-family: "Raleway";
   color: #2e2f42;
 }
@@ -144,8 +144,8 @@ h2 {
   background-color: #2e2f42;
 }
 .footer-p {
-  color: white;
+  color: #f4f4fd;
 }
-.logo3 {
-  color: whitesmoke;
+footer span .logo-uc {
+  ccolor: #2e2f42;
 }
