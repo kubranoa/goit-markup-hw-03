@@ -111,6 +111,7 @@ h1 {
   color: #ffffff;
   letter-spacing: 0.02em;
   max-width: 496px;
+  margin: 290px;
 }
 
 button {
@@ -155,6 +156,7 @@ button:focus {
 }
 .ikincisec-list {
   width: calc((100% - 72px) / 4);
+  list-style: none;
 }
 .huc {
   font-weight: 500;
@@ -186,10 +188,11 @@ p {
 .team-list {
   display: flex;
   gap: 24px;
+  list-style: none;
 }
 .team-member {
   background-color: #ffffff;
-  width: calc((100% - 92px) / 4);
+  width: calc((100% - 72px) / 4);
   border-radius: 0px 0px 4px 4px;
   border-top-left-radius: 0px;
   border-top-right-radius: 0px;
@@ -220,21 +223,24 @@ p {
 }
 .title-op {
   margin-bottom: 72px;
+  text-align: center;
 }
 .op-list {
   display: flex;
   flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px;
+  list-style: none;
 }
 .op-items {
-  width: calc((100% - 72px) / 3);
+  width: calc((100% - 48px) / 3);
 }
 .op-items-info {
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
   border-top: none;
   margin-bottom: 8px;
+  width: 360px;
 }
 .footer {
   background-color: #2e2f42;
