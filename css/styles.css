@@ -154,7 +154,7 @@ button:focus {
   display: flex;
   gap: 24px;
 }
-.ikincisec-list {
+.section-iki .ikincisec-list {
   width: calc((100% - 72px) / 4);
   list-style: none;
 }
@@ -227,7 +227,7 @@ p {
   row-gap: 48px;
   list-style: none;
 }
-.op-items {
+.op-block .op-items {
   width: calc((100% - 48px) / 3);
 }
 .op-items-info {
